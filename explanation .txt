@@ -1,0 +1,8 @@
+Mars Rovers
+In the development of this project has been use ruby programming language. It’s version 2.6.0. 
+The development not only focused on to satisfy the current system requirements but also considering possible future changes.   
+It’s used some design pattern to separate concerns to improve future flexibility. 
+This approache consider dynamic nature of the ruby language to avoid un necessary if and else.  
+It has been well tested using Rspec. This code base is very simple and easy to understand.
+It has been assumption that there would be few rovers and file reader always read accurate data. 
+All installation and execute information can find in readme file. 
