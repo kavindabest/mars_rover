@@ -28,3 +28,7 @@ To run simply execute
 ## Test
 
 Mas rover use Rspec to run it unit test and integration test. This test file can find in spec folder. There one integration test and unit tests.
+To run simply execute to run test
+
+    $ rspec spec
+
